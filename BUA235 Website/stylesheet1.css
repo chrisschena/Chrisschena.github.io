@@ -1,0 +1,13 @@
+<!DOCTYPE .css>
+
+h1 {color: navy; font-size: 24pt;} 
+
+p {color: navy; font-weight: normal;} 
+
+body { background: lightblue; color: navy; font-size: 14pt; font-family: 'Rokkitt', serif;}
+
+nav a {	display: table-cell;
+        border: 2px solid navy;
+        padding: 10px;
+		margin: 5px;
+		background: white;}
